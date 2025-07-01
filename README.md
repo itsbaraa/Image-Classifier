@@ -1,17 +1,17 @@
 # Simple Image Classifier
 
-A simple deep learning project to classify images of cats and dogs using a Keras model trained with [Teachable Machines](https://teachablemachine.withgoogle.com/).
+A deep learning project to classify images of cats and dogs using a Keras model trained with [Teachable Machines](https://teachablemachine.withgoogle.com/).
 
 ## Features
 - Classifies images as either "cat" or "dog"
 - Pre-trained Keras model (`keras_model.h5`)
-- Easy-to-use Jupyter notebook and Python scripts
-- Batch evaluation with accuracy, precision, recall, F1-score
+- Model evaluation with accuracy, precision, recall, F1-score
 
 ## Contents
 - `keras_model.h5` — Pre-trained Keras model
 - `labels.txt` — Class labels
 - `task.ipynb` — Jupyter notebook for single image and evaluation
+- The dataset used for the training can be found [here](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
 
 ## Installation
 1. **Install dependencies** (Python 3.8–3.10):
