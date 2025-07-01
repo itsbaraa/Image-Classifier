@@ -1,4 +1,4 @@
-# Simple Image Classifier
+# Image Classifier
 
 A deep learning project to classify images of cats and dogs using a Keras model trained with [Teachable Machines](https://teachablemachine.withgoogle.com/).
 
