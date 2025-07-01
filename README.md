@@ -20,7 +20,7 @@ pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn matplotlib tqdm
 ```
 2. **Clone the repository**
 ```bash
-git clone https://github.com/itsbaraa/Simple-Image-Classifier.git
+git clone https://github.com/itsbaraa/Image-Classifier.git
 ```
   
 ## Output
