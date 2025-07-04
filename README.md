@@ -4,17 +4,17 @@ A deep learning project to classify images of cats and dogs using a Keras model 
 
 ## Features
 - Classifies images as either "cat" or "dog"
-- Pre-trained Keras model (`keras_model.h5`)
+- Trained on 4000 images of dogs and cats.
 - Model evaluation with accuracy, precision, recall, F1-score
 
 ## Contents
-- `keras_model.h5` — Pre-trained Keras model
+- `keras_model.h5` — Trained Keras model
 - `labels.txt` — Class labels
 - `task.ipynb` — Jupyter notebook for single image and evaluation
 - The dataset used for the training can be found [here](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
 
 ## Installation
-1. **Install dependencies** (Python 3.8–3.10):
+1. **Install dependencies** (Python 3.8 – 3.10):
 ```bash
 pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn matplotlib tqdm
 ```
@@ -23,12 +23,12 @@ pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn matplotlib tqdm
 git clone https://github.com/itsbaraa/Image-Classifier.git
 ```
   
-## Output
+## Prediction Of A Single Image
 ```
 Class: Cat
 Confidence Score: 1.0
 ```
-## Evaluation
+## Evaluation On 2023 Test Images
 ```
               precision    recall  f1-score   support
 
