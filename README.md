@@ -23,12 +23,14 @@ pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn matplotlib tqdm
 git clone https://github.com/itsbaraa/Image-Classifier.git
 ```
   
-## Prediction Of A Single Image
+## Prediction
 ```
 Class: Cat
 Confidence Score: 1.0
 ```
-## Evaluation On 2023 Test Images
+
+## Evaluation
+- Tested on 2023 images
 ```
               precision    recall  f1-score   support
 
