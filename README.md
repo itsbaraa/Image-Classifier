@@ -16,7 +16,7 @@ A deep learning project to classify images of cats and dogs using a Keras model 
 ## Installation
 1. **Install dependencies** (Python 3.8 – 3.10):
 ```bash
-pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn matplotlib tqdm
+pip install tensorflow==2.12.1 Pillow numpy keras scikit-learn
 ```
 2. **Clone the repository**
 ```bash
