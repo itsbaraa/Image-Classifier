@@ -3,7 +3,7 @@
 A deep learning project to classify images of cats and dogs using a Keras model trained with [Teachable Machines](https://teachablemachine.withgoogle.com/).
 
 ## Features
-- Classifies images as either "cat" or "dog"
+- Classifies images as either "Cats" or "Dogs"
 - Trained on 4000 images of dogs and cats.
 - Model evaluation with accuracy, precision, recall, F1-score
 
@@ -25,7 +25,7 @@ git clone https://github.com/itsbaraa/Image-Classifier.git
   
 ## Prediction
 ```
-Class: Cat
+Class: Cats
 Confidence Score: 1.0
 ```
 
@@ -34,8 +34,8 @@ Confidence Score: 1.0
 ```
               precision    recall  f1-score   support
 
-        cats       0.97      0.97      0.97      1011
-        dogs       0.97      0.97      0.97      1012
+        Cats       0.97      0.97      0.97      1011
+        Dogs       0.97      0.97      0.97      1012
 
     accuracy                           0.97      2023
    macro avg       0.97      0.97      0.97      2023
