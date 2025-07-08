@@ -11,7 +11,7 @@ A deep learning project to classify images of cats and dogs using a Keras model 
 - `keras_model.h5` — Trained Keras model
 - `labels.txt` — Class labels
 - `task.ipynb` — Jupyter notebook for single image and evaluation
-- The dataset used for the training can be found [here](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
+- The dataset used for the training and testing can be found [here](https://www.kaggle.com/datasets/tongpython/cat-and-dog)
 
 ## Installation
 1. **Install dependencies** (Python 3.8 – 3.10):
